@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "R4PCZ76BNM.com.example.example",
-        "paths": [ "/Deeplinking/auth/callback*" ]
+        "paths": [ "auth/callback*" ]
       }
     ]
   }
