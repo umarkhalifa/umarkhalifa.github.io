@@ -1,11 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.anyworkx.customer",
-      "sha256_cert_fingerprints":
-        ["59:7F:57:65:F4:42:94:7F:B1:D7:63:A2:19:DA:43:D5:28:76:60:9E:E7:7C:7E:7B:E4:CA:7C:D8:9F:AB:18:D6"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.example",
+    "sha256_cert_fingerprints":
+    ["09:5A:1E:3D:D3:AE:FA:B0:57:58:92:A7:81:02:A3:C0:04:C2:32:C8:06:9A:D3:ED:8B:97:AC:D6:C5:84:96:DF"]
   }
-]
+}]
